@@ -160,16 +160,23 @@ hr {
     margin-bottom: 40px;
     
   } 
+#portfolio_hr_line {
+    border-top: 4px solid #66666687;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
 #contacts_hr_line {
-    border-top: 4px solid #dddddd;
-    width: 620px;
+    border-top: 4px solid #66666690;
+    width: 100%;
     margin: 0 auto;
     margin-top: 20px;
     margin-bottom: 40px;
 }
 #social_mediaHR {
-    border-top: 1px solid #dddddd;
-    width: 200px;
+    border-top: 3px solid #dddddd;
+    width: 100%;
     margin: 0 auto;
     margin-top: 20px;
     margin-bottom: 10px;
