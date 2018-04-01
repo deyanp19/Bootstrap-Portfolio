@@ -231,19 +231,16 @@ footer>p {
     background-color: green;
 }
 #picture1 {
-    width: 380px;
-    height: 233px;
+     
     margin-top: 5px;
     
 }
 #picture2 {
-    width: 380px;
-    height: 233px;
+   
     margin-top: 5px;
 }
 #picture3 {
-    width: 380px;
-    height: 233px;
+     
     margin-top: 5px;
 }
 #img2 {
@@ -254,7 +251,7 @@ footer>p {
     z-index: 1;
 }
 #img3 {
-    width: 350px;
+     
 }
 .text-1 {
     width: 100%;
@@ -277,8 +274,8 @@ footer>p {
     text-indent: 0em;
 }
 #TriviaGame {
-    width: 300px;
-    position: absolute;
+    width: 100%;
+    position: relative;
     background-color: rgba(84, 63, 180, 0.549);
     clear: both;
     bottom:  150px;
