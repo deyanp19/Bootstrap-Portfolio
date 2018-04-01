@@ -7,7 +7,7 @@ body {
      background-color: black;
     color: #4aaaa5;
     font-family: Arial, Helvetica, sans-serif;
-   
+   bottom: 70px;
     
     -webkit-background-size: cover; /* For WebKit*/
     -moz-background-size: cover;    /* Mozilla*/
@@ -224,19 +224,20 @@ footer>p {
     background-color: green;
 }
 #picture1 {
-     
-    width: 320px;
+    width: 380px;
+    height: 233px;
+    margin-top: 5px;
     
 }
 #picture2 {
-     
-    width: 320px;
-    
+    width: 380px;
+    height: 233px;
+    margin-top: 5px;
 }
 #picture3 {
-     
-    width: 320px;
-    
+    width: 380px;
+    height: 233px;
+    margin-top: 5px;
 }
 #img2 {
      
@@ -292,19 +293,37 @@ footer>p {
 .img-thumbnail {
     height: 100px;
 }
-.container {
-    width: 980px;
-    
-} 
+
 .navbar>navbar-default {
     width: 580px;
 }
 .navbar-right {
-    margin: -550px;
-    color: red;
+     
+     
     font-weight: bold;
     
+    
 }
-.navbar-brand {
+.nav-color {
+    font-size: 2em;
+    background-color: #4aaaa5;
+    text-transform: uppercase;
+    color: white;
+    margin-top: 0px;
+    margin-bottom: 0px;
+     
+    
+}
+  
+ .nav-color:hover {
+        background-color: green;
+        text-transform: uppercase;
+        text-decoration: none;
+        color: rgb(240, 235, 227);
+    }
+.bottom-fix-70 {
+     margin: 70px;
+     
+ }
 
-}
+ 
