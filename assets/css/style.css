@@ -19,6 +19,7 @@ html {
     background-image: url("../images/fresh_snow/fresh_snow.png");
      background-color: black;
  } 
+ 
 header {
     padding: 20px 20px 20px 0px;
     font-family:  Arial, Helvetica, sans-serif;
@@ -244,7 +245,7 @@ footer>p {
     margin-top: 5px;
 }
 #img2 {
-     
+      
 }
 #img1 {
      
